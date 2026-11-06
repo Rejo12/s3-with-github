@@ -1,0 +1,15 @@
+
+
+# dependencies
+/node_modules
+node_modules
+
+
+
+# testing
+/coverage
+
+# production
+/build
+
+G-9535167474-1
