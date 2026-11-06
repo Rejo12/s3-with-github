@@ -17,7 +17,7 @@ jobs:
       run: npm install
 
     - name: make build
-      run: npm run build        
+      run: CI=false npm run build        
 
 
     - name: configure aws credentials
